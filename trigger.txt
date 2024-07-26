@@ -1,3 +1,4 @@
+nginx:latest registry.cn-hangzhou.aliyuncs.com/bnudocker/nginx:latest
 semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/bnudocker/weaviate:1.19.0
 langgenius/qdrant:v1.7.3 registry.cn-hangzhou.aliyuncs.com/bnudocker/qdrant:v1.7.3
 pgvector/pgvector:pg16 registry.cn-hangzhou.aliyuncs.com/bnudocker/pgvector:pg16
