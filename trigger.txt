@@ -1,1 +1,1 @@
-openspg/openspg-server:latest registry.cn-hangzhou.aliyuncs.com/bnuboy/mydockerhub/openspg-server:latest
+openspg/openspg-server:latest registry.cn-hangzhou.aliyuncs.com/bnudocker/openspg-server:latest
