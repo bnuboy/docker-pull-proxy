@@ -1,1 +1,1 @@
-openspg/openspg-server:latest registry.cn-hangzhou.aliyuncs.com/bnudocker/openspg-server:latest
+openspg/openspg-mysql:latest registry.cn-hangzhou.aliyuncs.com/bnudocker/openspg/openspg-mysql:latest
