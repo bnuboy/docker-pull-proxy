@@ -1,1 +1,1 @@
-openspg/openspg-mysql:latest registry.cn-hangzhou.aliyuncs.com/bnudocker/openspg-mysql:latest
+tugraph/tugraph-runtime-centos7:4.0.1 registry.cn-hangzhou.aliyuncs.com/bnudocker/tugraph-runtime-centos7:4.0.1
